@@ -1,0 +1,9 @@
+E:\Apex Course\Major Project\billsoft\server\BillSoft.Repository\bin\Debug\netstandard2.0\BillSoft.Repository.deps.json
+E:\Apex Course\Major Project\billsoft\server\BillSoft.Repository\bin\Debug\netstandard2.0\BillSoft.Repository.dll
+E:\Apex Course\Major Project\billsoft\server\BillSoft.Repository\bin\Debug\netstandard2.0\BillSoft.Repository.pdb
+E:\Apex Course\Major Project\billsoft\server\BillSoft.Repository\obj\Debug\netstandard2.0\BillSoft.Repository.csprojAssemblyReference.cache
+E:\Apex Course\Major Project\billsoft\server\BillSoft.Repository\obj\Debug\netstandard2.0\BillSoft.Repository.csproj.CoreCompileInputs.cache
+E:\Apex Course\Major Project\billsoft\server\BillSoft.Repository\obj\Debug\netstandard2.0\BillSoft.Repository.AssemblyInfoInputs.cache
+E:\Apex Course\Major Project\billsoft\server\BillSoft.Repository\obj\Debug\netstandard2.0\BillSoft.Repository.AssemblyInfo.cs
+E:\Apex Course\Major Project\billsoft\server\BillSoft.Repository\obj\Debug\netstandard2.0\BillSoft.Repository.dll
+E:\Apex Course\Major Project\billsoft\server\BillSoft.Repository\obj\Debug\netstandard2.0\BillSoft.Repository.pdb
