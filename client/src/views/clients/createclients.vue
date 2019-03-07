@@ -94,7 +94,7 @@
         </el-row>
         <el-form-item>
           <el-button type="primary" @click="onSubmit('form')">Create</el-button>
-          <el-button @click="onCancel('form')">Reset</el-button>
+          <el-button @click="resetForm('form')">Reset</el-button>
         </el-form-item>
       </el-form>
     </el-card>
@@ -221,17 +221,17 @@ export default {
           return false;
         }
       });
+    },
+    resetForm(formName) {
+      this.$refs[formName].resetFields();
     }
-    // resetForm(formName) {
-    //   this.$refs[formName].resetFields();
-    // }
   },
-  onCancel() {
-    this.$message({
-      message: "cancel!",
-      type: "warning"
-    });
-  }
+  // onCancel() {
+  //   this.$message({
+  //     message: "cancel!",
+  //     type: "warning"
+  //   });
+  // }
 };
 </script>
 

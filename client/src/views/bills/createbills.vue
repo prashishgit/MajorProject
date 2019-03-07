@@ -9,7 +9,7 @@
           <el-col :span="12">
             <div class="grid-content bg-purple"></div>
             <el-form-item label="Vendor:">
-              <el-select v-model="value" placeholder="Type of click To Select" style="width:550px">
+              <el-select v-model="value" placeholder="Type of click To Select" style="width:525px">
                 <el-option
                   v-for="item in options"
                   :key="item.value"

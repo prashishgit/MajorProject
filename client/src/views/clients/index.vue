@@ -10,7 +10,7 @@
           style="float: right; margin-right: 10px"
         ></el-autocomplete>
       </div>
-      <el-table :data="tableData" style="width: 100%">
+      <el-table :data="tableData" stripe style="width: 100%">
         <el-table-column type="index" :index="indexMethod"></el-table-column>
         <!-- <el-table-column prop="id" label="Id" width="100"></el-table-column> -->
         <el-table-column prop="person" label="Person" width="200"></el-table-column>
